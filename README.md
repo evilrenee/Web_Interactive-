@@ -1,19 +1,32 @@
-# Web
+# WEB
 
-## dir
-Lists directories.
+#### dir
+List directories.
 
-## cd
-Changes directory.
+#### cd
+Change directory.
 
-## mkdir
+#### mkdir
 Make directory.
 
-## rmdir
+#### rmdir
 Remove directory.
 
-## cd ..
-Moves to parent folder. 
+#### cd ..
+Move up to parent folder.
 
-## exit()
+#### exit()
 Exit python terminal.
+
+# PYTHON PROJECTS
+
+## create a virtual environment
+
+#### python3 -m venv env
+Creates an environment to isolate packages.
+
+#### source env/bin/activate
+Gets the package folder
+
+#### pip
+Shows package commands 
